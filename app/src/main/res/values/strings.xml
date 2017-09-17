@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rolodex App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lastname">Last Name :</string>
+    <string name="firstname">First Name :</string>
+    <string name="email">Email :</string>
+    <string name="bio">Bio :</string>
+    <string name="startdate">Start Date :</string>
+    <string name="company">Company :</string>
+</resources>
